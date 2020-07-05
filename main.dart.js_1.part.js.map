@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_1.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/l10n/gallery_localizations_en.dart","../../../lib/l10n/gallery_localizations.dart"],
+  "names": ["GalleryLocalizationsEn","GalleryLocalizationsEn.shrineProductQuantity","GalleryLocalizationsEn.categoryNameVegetables","GalleryLocalizationsEn.categoryNameFruits","GalleryLocalizationsEn.shrineMenuCaption","GalleryLocalizationsEn.shrineCategoryNameAll","GalleryLocalizationsEn.shrineLogoutButtonCaption","GalleryLocalizationsEn.shrineLoginUsernameLabel","GalleryLocalizationsEn.shrineLoginPasswordLabel","GalleryLocalizationsEn.shrineCancelButtonCaption","GalleryLocalizationsEn.shrineNextButtonCaption","GalleryLocalizationsEn.shrineCartPageCaption","GalleryLocalizationsEn.shrineProductPrice","GalleryLocalizationsEn.shrineCartItemCount","GalleryLocalizationsEn.shrineCartSendButtonCaption","GalleryLocalizationsEn.shrineCartTotalCaption","GalleryLocalizationsEn.shrineCartSubtotalCaption","GalleryLocalizationsEn.shrineCartShippingCaption","GalleryLocalizationsEn.shrineTooltipSearch","GalleryLocalizationsEn.shrineTooltipOpenMenu","GalleryLocalizationsEn.shrineTooltipCloseMenu","GalleryLocalizationsEn.shrineTooltipCloseCart","GalleryLocalizationsEn.shrineScreenReaderCart","GalleryLocalizationsEn.shrineScreenReaderProductAddToCart","GalleryLocalizationsEn.shrineScreenReaderRemoveProductButton","GalleryLocalizationsEn.shrineTooltipRemoveItem",""],
+  "mappings": "A;0DAQEA;+BC0D6BA,WD1D7BA,AAA8DA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmlDxCC;IAtkDXC,WAA0BA,kBAAYA,C;IAGtCC,WAAsBA,cAAQA,C;IAiiD9BC,WAAqBA,YAAMA,C;IAG3BC,WAAyBA,WAAKA,C;IAY9BC,WAA6BA,cAAQA,C;IAGrCC,WAA4BA,gBAAUA,C;IAGtCC,WAA4BA,gBAAUA,C;IAGtCC,WAA6BA,cAAQA,C;IAGrCC,WAA2BA,YAAMA,C;IAGjCC,WAAyBA,YAAMA,C;GAGnCV,YACLA,yBACFA,C;GAGOW,YACLA,YACFA,C;GAGOC,YACLA,OAAiBA,gBAEPA,iBAGEA,gCAEdA,C;IAMWC,WAA+BA,kBAAYA,C;IAG3CC,WAA0BA,aAAOA,C;IAGjCC,WAA6BA,iBAAWA,C;IAGxCC,WAA6BA,iBAAWA,C;IAqHxCC,WAAuBA,cAAQA,C;IAM/BC,WAAyBA,iBAAWA,C;IAGpCC,WAA0BA,kBAAYA,C;IAGtCC,WAA0BA,kBAAYA,C;GAG1CC,YACLA,OAAiBA,gBAEPA,kDAGiBA,+CAE7BA,C;IAGWC,WAAsCA,mBAAaA,C;GAGvDC,YACLA,iBACFA,C;IAGWC,WAA2BA,mBAAaA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "8NAQmD0BW;"
+  }
+}
